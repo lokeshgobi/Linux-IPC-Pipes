@@ -84,7 +84,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 ## OUTPUT
 
-![alt text](<Screenshot 2026-02-12 195541.png>)
+<img width="715" height="183" alt="Screenshot 2026-02-12 195541" src="https://github.com/user-attachments/assets/6c2b4e72-f8c5-45d8-8945-13a04ebd9f68" />
+
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```
@@ -101,7 +102,7 @@ exit(EXIT_SUCCESS);
 ```
 ## OUTPUT
 
-![alt text](<Screenshot 2026-02-12 195639.png>)
+<img width="718" height="99" alt="Screenshot 2026-02-12 195639" src="https://github.com/user-attachments/assets/2c60a35e-d548-49ae-9307-24ddace40f55" />
 
 
 # RESULT:
